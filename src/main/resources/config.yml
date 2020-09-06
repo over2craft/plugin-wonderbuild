@@ -1,0 +1,6 @@
+party:
+  time-per-builder: 50
+  round: 2
+  min-player: 2
+  max-player: 10
+kick-server: freebuild

@@ -1,0 +1,12 @@
+main: com.shyndard.over2craft.wonderbuild.MainPlugin
+name: Wonderbuild
+version: "1.0.0"
+description: Wonderbuild plugin
+author: shyndard
+commands:
+   wonderbuild:
+      description: Wonderbuild's command
+      usage: /<command> setspawn <guesser|builder>
+      permission: wonderbuild.admin
+      aliases: [wb]
+api-version: 1.16
